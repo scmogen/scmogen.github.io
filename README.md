@@ -1,2 +1,2 @@
 # scmogen.github.io
-# tryna make a website
+tryna make a website
