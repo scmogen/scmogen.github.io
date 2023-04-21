@@ -3,7 +3,7 @@
 I am a PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. My research focuses on the dynamics and predictability of marine stressors, with a particular focus on ocean acidification. I received a BS in Environmental Science and BA in Global Environments and Sustainability from the University of Virginia in 2020. 
 
 <!-- [Curriculum vitae](/assets/mogen_cv.pdf) (updated 21 April 2023) -->
-You can use this site to find out more about my [experience](./cv_page.html) and [research](./research_page.html).
+You can use this site to find out more about my [experience](scmogen.github.io/cv_page.html) and [research](./research_page.html).
 
 
 ## Education
