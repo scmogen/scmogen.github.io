@@ -1,0 +1,44 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #fff;
+  padding:50px;
+//   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Helvetica Neue";
+  color:#666;
+  font-weight:400;
+}
+
+h1 {
+  color:#333;
+  margin:0 0 12px;
+}
+
+h2 {
+  color:#000;
+  margin:0 0 16px;
+  padding-top: 18px;
+}
+
+h3 {
+  color:#444;
+  margin:0 0 12px;
+}
+
+h4, h5, h6 {
+  color:#666;
+  margin:0 0 0;
+}
+
+a {
+  color:#213182;
+  font-weight:bold;
+}
+
+a:hover, a:focus {
+  color:#4b5ebf;
+  font-weight:bold;
+}
