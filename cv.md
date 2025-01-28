@@ -3,10 +3,10 @@ layout: default
 ---
 
 # CV 
-Last updated 21 April 2023.
+Last updated 28 January 2025.
 
-<object data="./assets/mogen_cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./assets/mogen_cv.pdf">
+<object data="./assets/mogen_cv_0125.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./assets/mogen_cv_0125">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/pdf/CV_20221103.pdf">Download PDF</a>.</p>
     </embed>
 </object>
