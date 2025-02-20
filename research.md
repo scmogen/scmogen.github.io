@@ -6,7 +6,7 @@ layout: default
 My work has primarily focused on (1) prediction across timescales ranging from subseasonal to multi-year and (2) biogeochemical impacts of extreme events and their effects on marine ecosystems.
 
 ### Current work
-- <em>Understanding changes to the North Pacific Current and Bifurcation</em> I am contributing to assessments focused on understanding changes to the North Pacific Current modes under anthropogenic warming using a variety of model and observational tools.
+- <em>Understanding changes to the North Pacific Current and Bifurcation</em>. I am contributing to assessments focused on understanding changes to the North Pacific Current modes under anthropogenic warming using a variety of model and observational tools.
 - <em>Forecasting extremes in marine productivity</em>. As the global ocean experiences physical and biogeochemical changes as a result of climate change, there are growing concerns about impacts on marine organisms and ecosystems. Here, I use the Community Earth System Model (CESM) Seasonal-to-Multiyear Large Ensemble (SMYLE) alongside observational products and model reconstructions to assess predictions of extremes in marine Chlorophyll, Net Primary Productivity, and Total Biomass. 
 
 ### Previous work
