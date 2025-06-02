@@ -1,6 +1,6 @@
 ## About
 
-I am a Post-Doctoral Assocaite at the Institute for Alpine and Arctic Research at the University of Colorado Boulder. My research focuses on the dynamics and predictability of marine stressors, with a particular focus on ocean acidification. I received a BS in Environmental Science and BA in Global Environments and Sustainability from the University of Virginia in 2020. I then completed my PhD in the Department of Atmospheric and Oceanic Sciences at the University of Colorado Boulder, working with Dr. Nicole Lovenduski
+I am a Postdoctoral Assocaite at the Institute for Alpine and Arctic Research at the University of Colorado Boulder. My research focuses on the dynamics and predictability of marine stressors, with a particular focus on ocean acidification. I received a BS in Environmental Science and BA in Global Environments and Sustainability from the University of Virginia in 2020. I then completed my PhD in the Department of Atmospheric and Oceanic Sciences at the University of Colorado Boulder, working with Dr. Nicole Lovenduski
 
 <!-- [Curriculum vitae](/assets/mogen_cv.pdf) (updated 21 April 2023) -->
 You can use this site to find out more about my [experience](./cv.html) and [research](./research.html).
@@ -24,7 +24,7 @@ University of Virginia, 2020
 Advisor: Dr. Scott Doney
 
 
-## Publications
+## Selected Publications
 <b>Mogen, S.C.</b>, Lovenduski, N.S., Yeager, S.G., Capotondi, A., Bograd, S.J., Hazen, E.L., Pozo Buil, M., Jacox, M.G., Di Lorenzo, E., Kim, W., Rosenbloom, N.R.. (2024) Multi-month forecasts of marine heatwaves and ocean acidification extremes. <em>Nature Geoscience</em>, 17, 1261–1267. <a href="https://doi.org/10.1038/s41561-024-01593-0"> https://doi.org/10.1038/s41561-024-01593-0</a>
 
 
