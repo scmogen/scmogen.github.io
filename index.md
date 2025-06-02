@@ -1,6 +1,6 @@
 ## About
 
-I am a PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. My research focuses on the dynamics and predictability of marine stressors, with a particular focus on ocean acidification. I received a BS in Environmental Science and BA in Global Environments and Sustainability from the University of Virginia in 2020. 
+I am a Post-Doctoral Assocaite at the Institute for Alpine and Arctic Research at the University of Colorado Boulder. My research focuses on the dynamics and predictability of marine stressors, with a particular focus on ocean acidification. I received a BS in Environmental Science and BA in Global Environments and Sustainability from the University of Virginia in 2020. I then completed my PhD in the Department of Atmospheric and Oceanic Sciences at the University of Colorado Boulder, working with Dr. Nicole Lovenduski
 
 <!-- [Curriculum vitae](/assets/mogen_cv.pdf) (updated 21 April 2023) -->
 You can use this site to find out more about my [experience](./cv.html) and [research](./research.html).
@@ -9,7 +9,7 @@ You can use this site to find out more about my [experience](./cv.html) and [res
 ## Education
 
 #### PhD in Atmospheric and Oceanic Sciences
-University of Colorado Boulder, in progress
+University of Colorado Boulder, 2025
 <br>
 Advisor: Dr. Nicole Lovenduski
 
